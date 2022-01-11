@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giannis Chantas @gchantas, I am with University of Ioannina, Department of Computer Science and Engineering.
 - 👀 I’m interested in Image and Audio Processing, mainly with Probabilistic Modeling and Machine Learning. 
 - 🌱 I’m currently learning Python and started transcripting my Matlab code.
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on stuff that can be applications of my knonwledge -->
 - 📫 E-mail: gchantas@uoi.gr
 
 <!---
