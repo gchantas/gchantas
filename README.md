@@ -2,7 +2,7 @@
 - 👀 I’m interested in Image and Audio Processing, mainly with Probabilistic Modeling and Machine Learning. 
 - 🌱 I’m currently implementing my Super Resolution algorithms for restoration of old paintings based on data acquired via XRF technology.
 <!-- - 💞️ I’m looking to collaborate on stuff that can be applications of my knonwledge -->
-- 📫 E-mail: gchantas@uoi.gr
+- 📫 E-mail: g c h a n t a s    at     u o i . g r
 
 <!---
 gchantas/gchantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
